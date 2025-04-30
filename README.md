@@ -1,6 +1,3 @@
-Sure! Here’s the README in `.md` format:
-
-```markdown
 # 🍕 Pizza Menu
 
 Welcome to the Pizza Menu project! This is a simple yet engaging web application built while learning React basics. The app allows users to browse through a variety of pizza options, view their details, and explore the world of delicious pizzas. It's a great way to practice React fundamentals while creating something fun and interactive.
