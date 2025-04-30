@@ -38,8 +38,8 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app in your bro
 
 ## 🌟 Demo
 
-![Pizza Menu Demo](https://placekitten.com/800/400)  
-*Insert a screenshot of your app here, or a gif showing the app in action.*
+![Pizza Menu Screenshot](./assets/Demo.png)
+
 
 ## 💡 What I Learned
 
