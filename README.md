@@ -38,7 +38,7 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app in your bro
 
 ## 🌟 Demo
 
-![Pizza Menu Screenshot](./assets/Demo.png)
+![Pizza Menu Screenshot](./src/assets/Demo.png)
 
 
 ## 💡 What I Learned
